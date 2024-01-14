@@ -36,7 +36,8 @@ body::after {
 }
 
 .card {
-    border: 1px solid black;
+    border-top: 1px solid black;
+    border-top: 1px solid black;
     width: 380px;
     height: 600px;
     display: flex;
