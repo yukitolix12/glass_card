@@ -57,10 +57,10 @@ body::after {
     transition: 0.5s;
 }
 
-.card:hover .content {
+/*.card:hover .content {
     transform: translateY(0);
     opacity: 1;
-}
+} */
 
 .card .content h2 {
     position: absolute;
