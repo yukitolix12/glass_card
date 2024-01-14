@@ -65,5 +65,8 @@ body::after {
 
 .card .content h2 {
     position: absolute;
-    top: 0;
+    top: -80;
+    right: 30px;
+    font-size: 8rem;
+    color: rgba(255, 255, 255, 0.1);
 }
